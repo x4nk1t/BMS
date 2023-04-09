@@ -1,0 +1,8 @@
+Pulsar NS 200,Bajaj,Black,35,$3862
+Saluto UBS,Yamaha,Green,14,$8044
+Tornado 302,Benelli,Blue,60,$5932
+Classic 350,Royal,Black,28,$7531
+XPulse 200,Hero,White,12,$19434
+CB Hornet 160,Honda,Green,19,$8532
+XPulse 600,Hero,Blue,0,$29834
+390 Adventure,KTM,Orange,20,$2400
